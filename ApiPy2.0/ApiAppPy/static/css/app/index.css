@@ -1,0 +1,51 @@
+
+html {
+
+    box-sizing: border-box;
+    border: 0;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+body {
+
+    background: url("moderbc.jpg") no-repeat  center center fixed;
+    background-size: cover;
+    overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+.container {
+
+    margin-top: 5%;
+
+    align-items: center;
+
+    width: fit-content;
+    height: fit-content;
+
+    padding: 5%;
+    background-color: rgba(255, 255, 255, 0.3);
+
+    border-radius: 5px;
+   
+
+}
+
+
+#box {
+
+     text-align: center;
+    font-size: 32px;
+    color: white;
+    font-style: normal;
+    font-family: sans-serif;
+    
+
+}
